@@ -1,6 +1,6 @@
 ﻿# PolyTales
 
-![](https://img.shields.io/github/downloads/PolyTalesTeam/PolyTales/total) ![](https://img.shields.io/github/repo-size/PolyTalesTeam/PolyTales)
+![](https://img.shields.io/github/downloads/DevPolyTeam/PolyTales/total) ![](https://img.shields.io/github/repo-size/DevPolyTeam/PolyTales)
 
 ## Requirements
 
@@ -20,4 +20,4 @@ Download BepInEx from [BepInEx Bleeding Edge builds](https://builds.bepinex.dev/
 
 ### PolyTales
 
-Download PolyTales from [github releases](https://github.com/PolyTalesTeam/PolyTales/releases) and place it under `BepInEx/plugins`
+Download PolyTales from [github releases](https://github.com/DevPolyTeam/PolyTales/releases) and place it under `BepInEx/plugins`
